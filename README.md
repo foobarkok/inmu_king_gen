@@ -13,4 +13,4 @@ size_expr = build_frame_lookup_expr(size_list, idx_expr="n").replace(",", r"\,")
 ```
 
 > [!IMPORTANT]
-> `inmu_king.mp4` は私の著作物ではあり**ません**。`inmu_king_w_audio`,`result.mp4`も同様です。他のファイルはこの repository のライセンスファイルに従ってください。
+> `inmu_king.mp4` は私の著作物ではあり**ません**。`inmu_king_w_audio`,`result.mp4`も同様です。他のファイルはこの repository のライセンスに従ってください。
