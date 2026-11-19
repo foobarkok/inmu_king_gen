@@ -8,4 +8,4 @@ Linux環境用。PythonとFFmpegが必要。
 `$ ./render.sh inmu_gif.mp4 rect.png result.mp4`
 
 > [!IMPORTANT]
-> inmu_king.mp4 は私の著作物ではあり**ません**。他のファイルはこの repository のライセンスファイルに従ってください。
+> `inmu_king.mp4` は私の著作物ではあり**ません**。`result.mp4`も同様です。他のファイルはこの repository のライセンスファイルに従ってください。
