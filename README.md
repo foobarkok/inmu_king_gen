@@ -5,7 +5,7 @@ Linux環境用。PythonとFFmpegが必要。
 ### render.sh を生成
 `$ python3 gen_sh.py`で`render.sh`を生成(元から入っているのでやらなくてok)
 ### 動画を生成
-`$ ./render.sh inmu_gif.mp4 rect.png result.mp4`
+`$ ./render.sh inmu_king.mp4 rect.png result.mp4`
 
 > [!IMPORTANT]
 > `inmu_king.mp4` は私の著作物ではあり**ません**。`result.mp4`も同様です。他のファイルはこの repository のライセンスファイルに従ってください。
